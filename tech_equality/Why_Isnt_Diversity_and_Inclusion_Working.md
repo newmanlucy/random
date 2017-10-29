@@ -2,6 +2,8 @@
 
 Tuesday, a user of Microsoft internal blog posted the following “diversity poll”: “Which group is the smartest at MS?” The available options were Americans and Canadians, Indians, Eastern Europeans and Russians, Chinese, Israelis / Jewish, and Western Europeans. Eighty-five Microsoft employees voted. There was no clear consensus.
 
+!["Diversity" poll][diversity poll question]
+
 That this poll was posted, and that eighty-five employees did not hesitate to chose a “smartest” among a collection of demographic groups (which by the way are not mutually exclusive and leaves out several continents), suggests that the depth of the diversity and inclusion problem in corporate tech goes far beyond lagging numbers among certain demographic groups. Rather, the problem is rooted in employees’ beliefs, which inform the extent of their respect for coworkers, and colors employee interactions.
 
 I am a college computer science student. A good friend of mine works at Microsoft. He loves technology, microsoft, and many of his coworkers. But the poll discussed above is only the tip of an iceberg of inclusion issues he regularly sees.
@@ -55,3 +57,5 @@ Of course, don’t just listen to me. I’m just a college student whose main so
 [gaffe]: http://www.techtimes.com/articles/17610/20141010/women-should-trust-karma-for-pay-raise-microsoft-ceo-satya-nadella-apologizes-for-gaffe.htm
 [employee training]: https://www.microsoft.com/en-us/diversity/training/default.aspx
 [financial incentives]: http://fortune.com/2016/11/18/microsoft-diversity-women/
+
+[diversity poll question]: https://github.com/newmanlucy/random/blob/master/tech_equality/images/diversity_poll_question.png
