@@ -85,4 +85,4 @@ Of course, don’t just listen to me. I’m just a college student whose main so
 [opaque employee reviews]: https://github.com/newmanlucy/random/blob/master/tech_equality/images/opaque_employee_reviews.png
 [undeserved credit]: https://github.com/newmanlucy/random/blob/master/tech_equality/images/undeserved_credit.png
 [women name change question]: https://github.com/newmanlucy/random/blob/master/tech_equality/images/women_name_change_question.png
-[women name change respone]: https://github.com/newmanlucy/random/blob/master/tech_equality/images/women_name_change_response.png
+[women name change response]: https://github.com/newmanlucy/random/blob/master/tech_equality/images/women_name_change_response.png
