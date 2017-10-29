@@ -1,7 +1,7 @@
 # Why Isn’t Diversity and Inclusion Working? #
 
 Tuesday, a user of Microsoft internal blog posted the following “diversity poll”: “Which group is the smartest at MS?” The available options were Americans and Canadians, Indians, Eastern Europeans and Russians, Chinese, Israelis / Jewish, and Western Europeans. Eighty-five Microsoft employees voted. There was no clear consensus.
-
+--- | ---
 !["Diversity" poll][diversity poll question] | ![Results of the "diversity" poll][diversity poll results]
 
 That this poll was posted, and that eighty-five employees did not hesitate to chose a “smartest” among a collection of demographic groups (which by the way are not mutually exclusive and leaves out several continents), suggests that the depth of the diversity and inclusion problem in corporate tech goes far beyond lagging numbers among certain demographic groups. Rather, the problem is rooted in employees’ beliefs, which inform the extent of their respect for coworkers, and colors employee interactions.
