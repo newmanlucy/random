@@ -3,6 +3,7 @@
 Tuesday, a user of Microsoft internal blog posted the following “diversity poll”: “Which group is the smartest at MS?” The available options were Americans and Canadians, Indians, Eastern Europeans and Russians, Chinese, Israelis / Jewish, and Western Europeans. Eighty-five Microsoft employees voted. There was no clear consensus.
 
 !["Diversity" poll][diversity poll question]
+![Results of the "diversity" poll][diversity poll results]
 
 That this poll was posted, and that eighty-five employees did not hesitate to chose a “smartest” among a collection of demographic groups (which by the way are not mutually exclusive and leaves out several continents), suggests that the depth of the diversity and inclusion problem in corporate tech goes far beyond lagging numbers among certain demographic groups. Rather, the problem is rooted in employees’ beliefs, which inform the extent of their respect for coworkers, and colors employee interactions.
 
@@ -17,19 +18,32 @@ You may also find a link to an article about Microsoft CEO Satya Nadella’s 201
 
 This attitude in which demographics, rather than pure meritocracy, influence coworker relations and respect is further seen in manager hiring practices. Discussing a psychology study on ingroup biases, my friend told me of ingroup biases at Microsoft. He says, “Indians like to hire indians on their teams. And White guys like to hire white guys on their teams. And since there aren’t a lot of Asian managers for some reason, there aren’t a lot of totally Asian teams.” He later amended that Microsoft’s Bing subdivision is almost entirely comprised of Asian males. He suspects that he was hired in part because his demographic is similar to his manager’s.  If true, such hiring practices represent an attempt to preserve familiar cultural values and hierarchies. 
 
+![Ingroup hiring bias at Microsoft][ingroup hiring]
+
 My friend sees social biases come up on a daily basis in meetings, as older men cut off young women with uncanny regularity. Rather than allowing these women to explain an engineering problem, men will often interrupt with their own solution before they understand the issue. This takes extra time in meetings, because the men’s solution often misinterprets the problem. He finds himself pointing the men who interrupted back towards the women’s explanations. This pattern of interruption displays a fundamental lack of respect, and again suggests that there are factors beyond technical merit which influence the extent to which an employee is taken seriously.
 
+![My friend feels that there is a tendency to cut off women in meetings.][cutting off women 1]
+![My friend feels that there is a tendency to cut off women in meetings.][cutting off women 2]
+![My friend feels that there is a tendency to cut off women in meetings.][cutting off women 3]
 
 Microsoft clearly sees the problem. Following Nadella’s misstatement, the company has taken aggressive steps towards diversity and inclusion, including [employee training] and [financial incentives] for promoting minorities and women. My friend describes the Diversity and Inclusion posters ubiquitous on the walls of Microsoft buildings: “There are a lot of big, minimalistic lettering saying things like, ‘7 out of 10 disabilities are invisible to the eye.’ There’s a poster with two different-colored atoms to represent diversity. It’s a lot of abstract art.” So there’s a lot of symbolism and idealistic imagery, and then, in the diversity and inclusion training program, employees are told, “Play nicely, children,” in so many words.
 
 ## The Reasons 
 ### 1. The Hiring and Promotion Incentive Isn’t Working. ###
-Microsoft managers are given incentives for hiring and promoting minorities. But this incentive allows managers to reap financial rewards without internalizing the sentiment that all employees should be respected equally based on merit. He feels that his manager may be trying to make him look better than he deserves simply for the sake of this incentive. He doesn’t know how else to explain his manager having given him credit for a feature he didn’t implement. 
+Microsoft managers are given incentives for hiring and promoting minorities. But this incentive allows managers to reap financial rewards without internalizing the sentiment that all employees should be respected equally based on merit. He feels that his manager may be trying to make him look better than he deserves simply for the sake of this incentive. He doesn’t know how else to explain his manager having given him credit for a feature he didn’t implement.
+
+![Diversity hiring bonuses may also incentivize dishonesty.][undeserved credit]
 
 Further, a financial incentive for hiring and promotion of minorities leaves room for others to further call into question the legitimacy of a minority’s power. On the anonymous forum open only to Microsoft employees (not company sponsored), one user says, “As long as there is a forced ‘diversity and inclusion’ program at Microsoft you will always be seen as a diversity hire. Live with it. Trump 2020!” Another says, “Yeah due to the forced diversity numbers, I do look at all minority and women as diversity hires.. It’s the only logical thing to do..”
 
+![Some respond to diversity and inclusion with anger and racism.]["forced" diversity and inclusion 1]
+![Some respond to diversity and inclusion with anger and racism.]["forced" diversity and inclusion 2]
+
 ### 2. Current Biases Amplify Themselves. ###
 According to my friend, managers at Microsoft tend to hire people of their demographic ingroup. This perpetuates hierarchies particular to Indian, White, or Asian cultures, which have no place in a work environment. On my friend’s team, “The culture is pretty male-dominated.” One poll on the anonymous forum shows that many men want the woman they marry to change their last name to his. While supporting this particular custom may have no bearing on professional treatment of co-workers, it is an attitude of unequal treatment which may carry over. And based on his experience with men interrupting women more often, it does.
+
+![Many Microsoft emplyees care that the woman they marry takes their name][women name change question]
+![Microsoft employee cites practical reasons why women shouldn't have to change their name][women name change response]
 
 The diversity hiring incentive is Microsoft’s attempt to combat this issue. But rather than removing social hierarchies, women and minorities are now seen by some as “diversity hires.” This attitude is visible on the anonymous forum and just below the surface in everyday interactions.
 
@@ -37,6 +51,8 @@ The anonymous blog itself further perpetuates the problems. Anonymity and lack o
 
 ### 3. An Opaque Rewards System Leaves Too Much Up To Managers. ###
 Managers at Microsoft have a lot of power, in part because their reasons for promotion and bonuses are not visible to employees. Managers keep track of numbers throughout the year: bug fixes, code pushed, etc. All of this eventually goes into a performance history called Connect. From there, employees get their “rewards,” a number  which determines the size of their bonuses and whether they can get a promotion. Or, if an employee gets “zero rewards,” they should look for a new job externally, as they are likely to be laid off, and the “ZR” mark on their record will make it very hard to get hired to another team at Microsoft.	
+
+![Microsoft employees never get to see the report that determines their bonuses.][opaque employee reviews]
 
 But employees never have access to the Connect performance history which determines their rewards. “We don’t have a UI for viewing it,” my friend says. Well, this is Microsoft. How hard would it be to build a UI for this database?
 
@@ -58,4 +74,15 @@ Of course, don’t just listen to me. I’m just a college student whose main so
 [employee training]: https://www.microsoft.com/en-us/diversity/training/default.aspx
 [financial incentives]: http://fortune.com/2016/11/18/microsoft-diversity-women/
 
+[cutting off women 1]: https://github.com/newmanlucy/random/blob/master/tech_equality/images/cutting_off_women_1.png
+[cutting off women 2]: https://github.com/newmanlucy/random/blob/master/tech_equality/images/cutting_off_women_2.png
+[cutting off women 3]: https://github.com/newmanlucy/random/blob/master/tech_equality/images/cutting_off_women_3.png
 [diversity poll question]: https://github.com/newmanlucy/random/blob/master/tech_equality/images/diversity_poll_question.png
+[diversity poll results]: https://github.com/newmanlucy/random/blob/master/tech_equality/images/diversity_poll_results.png
+["forced" diversity and inclusion 1]: https://github.com/newmanlucy/random/blob/master/tech_equality/images/forced_diversity_and_inclusion_1.png
+["forced" diversity and inclusion 2]: https://github.com/newmanlucy/random/blob/master/tech_equality/images/forced_diversity_and_inclusion_2.png
+[ingroup hiring]: https://github.com/newmanlucy/random/blob/master/tech_equality/images/ingroup_hiring.png
+[opaque employee reviews]: https://github.com/newmanlucy/random/blob/master/tech_equality/images/opaque_employee_reviews.png
+[undeserved credit]: https://github.com/newmanlucy/random/blob/master/tech_equality/images/undeserved_credit.png
+[women name change question]: https://github.com/newmanlucy/random/blob/master/tech_equality/images/women_name_change_question.png
+[women name change respone]: https://github.com/newmanlucy/random/blob/master/tech_equality/images/women_name_change_response.png
