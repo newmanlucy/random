@@ -2,8 +2,7 @@
 
 Tuesday, a user of Microsoft internal blog posted the following “diversity poll”: “Which group is the smartest at MS?” The available options were Americans and Canadians, Indians, Eastern Europeans and Russians, Chinese, Israelis / Jewish, and Western Europeans. Eighty-five Microsoft employees voted. There was no clear consensus.
 
-!["Diversity" poll][diversity poll question]
-![Results of the "diversity" poll][diversity poll results]
+!["Diversity" poll][diversity poll question] ![Results of the "diversity" poll][diversity poll results]
 
 That this poll was posted, and that eighty-five employees did not hesitate to chose a “smartest” among a collection of demographic groups (which by the way are not mutually exclusive and leaves out several continents), suggests that the depth of the diversity and inclusion problem in corporate tech goes far beyond lagging numbers among certain demographic groups. Rather, the problem is rooted in employees’ beliefs, which inform the extent of their respect for coworkers, and colors employee interactions.
 
@@ -36,14 +35,12 @@ Microsoft managers are given incentives for hiring and promoting minorities. But
 
 Further, a financial incentive for hiring and promotion of minorities leaves room for others to further call into question the legitimacy of a minority’s power. On the anonymous forum open only to Microsoft employees (not company sponsored), one user says, “As long as there is a forced ‘diversity and inclusion’ program at Microsoft you will always be seen as a diversity hire. Live with it. Trump 2020!” Another says, “Yeah due to the forced diversity numbers, I do look at all minority and women as diversity hires.. It’s the only logical thing to do..”
 
-![Some respond to diversity and inclusion with anger and racism.]["forced" diversity and inclusion 1]
-![Some respond to diversity and inclusion with anger and racism.]["forced" diversity and inclusion 2]
+![Some respond to diversity and inclusion with anger and racism.]["forced" diversity and inclusion 1] ![Some respond to diversity and inclusion with anger and racism.]["forced" diversity and inclusion 2]
 
 ### 2. Current Biases Amplify Themselves. ###
 According to my friend, managers at Microsoft tend to hire people of their demographic ingroup. This perpetuates hierarchies particular to Indian, White, or Asian cultures, which have no place in a work environment. On my friend’s team, “The culture is pretty male-dominated.” One poll on the anonymous forum shows that many men want the woman they marry to change their last name to his. While supporting this particular custom may have no bearing on professional treatment of co-workers, it is an attitude of unequal treatment which may carry over. And based on his experience with men interrupting women more often, it does.
 
-![Many Microsoft emplyees care that the woman they marry takes their name][women name change question]
-![Microsoft employee cites practical reasons why women shouldn't have to change their name][women name change response]
+![Many Microsoft emplyees care that the woman they marry takes their name][women name change question] ![Microsoft employee cites practical reasons why women shouldn't have to change their name][women name change response]
 
 The diversity hiring incentive is Microsoft’s attempt to combat this issue. But rather than removing social hierarchies, women and minorities are now seen by some as “diversity hires.” This attitude is visible on the anonymous forum and just below the surface in everyday interactions.
 
