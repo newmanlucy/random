@@ -1,6 +1,7 @@
 # Why Isn’t Diversity and Inclusion Working? #
 
 Tuesday, a user of Microsoft internal blog posted the following “diversity poll”: “Which group is the smartest at MS?” The available options were Americans and Canadians, Indians, Eastern Europeans and Russians, Chinese, Israelis / Jewish, and Western Europeans. Eighty-five Microsoft employees voted. There was no clear consensus.
+header 1 | header 2
 --- | ---
 !["Diversity" poll][diversity poll question] | ![Results of the "diversity" poll][diversity poll results]
 
